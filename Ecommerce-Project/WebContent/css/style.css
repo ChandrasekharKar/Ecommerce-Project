@@ -1,0 +1,19 @@
+body
+{
+	margin: 0;
+	height: 100%;
+}
+
+.card{
+	border: 1px solid grey;
+}
+ 
+ .non-underline-link{
+   text-decoration: none !important;
+}
+
+        
+.modal-size {
+    max-width: 80% !important;
+}
+        
